@@ -1,0 +1,7 @@
+{
+  "libraryStrings": {
+    "distributeButtonLabel": "Fördela jämnt",
+    "distributeButtonWarning": "Värden kommer att ändras för alla intervall. Vill du fortsätta?",
+    "rangeOutOfSequenceWarning": "Poängintervallen är utanför sekvensordning"
+  }
+}
